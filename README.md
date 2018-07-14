@@ -1,5 +1,5 @@
 # GitHub-Advance-Projects
-Hire i will Test all my ideas relaited with my GitHub
+Here I will test all my ideas related to my GitHub.
 
 
 <p align="center">
